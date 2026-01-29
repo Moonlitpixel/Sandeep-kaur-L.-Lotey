@@ -25,9 +25,9 @@ I am a Computer Science student with a strong interest in Software development, 
 
 ## 🛠 Skills
 - Frontend: React, React Native, HTML, CSS, JavaScript
-- Backend: Express.js, Node.js, MySQL, Java
+- Backend: Express.js, Node.js, MySQL, Java, Python
 - UI/UX: Figma, Wireframing, Prototyping
-- Tools: Git, GitHub
+- Tools: Git, GitHub, Adobe, Microsoft Excel, Canva
 
 ---
 
