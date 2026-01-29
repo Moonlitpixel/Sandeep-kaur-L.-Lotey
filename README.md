@@ -17,7 +17,8 @@ I am a Computer Science student with a strong interest in Software development, 
 - 🔗 [Goodreads App – Interactive Prototype] - https://www.figma.com/proto/DkPla2DHF6vs8SAHqbvlXJ/Goodreads-App-Redesign?node-id=11-9&t=z2DYYWtYCTwyXixV-1 
 - 🔗 [ArtStation App – Interactive Prototype] - https://www.figma.com/proto/fUW7itzZorCWvdOonjwHoU/ArtStation-App?node-id=1-196&t=z2DYYWtYCTwyXixV-1
 - 🔗 [ArtStation App – Workflow] - https://www.figma.com/design/fUW7itzZorCWvdOonjwHoU/ArtStation-App?node-id=1-196&t=z2DYYWtYCTwyXixV-1 
-- 🔗 [CLassica Website] -  https://github.com/Moonlitpixel/Classica-Website 
+- 🔗 [CLassica Website] -  https://github.com/Moonlitpixel/Classica-Website
+- 🔗 [Canva PPT presentation] - https://www.canva.com/design/DAG296SxE1k/BoqlEiPmg1ALAfJ78R0TCw/edit?utm_content=DAG296SxE1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 ---
