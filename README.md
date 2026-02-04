@@ -2,7 +2,7 @@
 Personal GitHub profile and project showcase.
 
 🎓 Computer Science Student  
-💻 Software Developer | 🎨 UI/UX Designer  
+💻 Software Developer | 🎨 UI/UX Designer  | 📈 Data Science & Analytics
 
 ---
 
