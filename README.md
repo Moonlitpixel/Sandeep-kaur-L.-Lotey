@@ -7,12 +7,13 @@ Personal GitHub profile and project showcase.
 ---
 
 ## 👋 About Me
-I am a Computer Science student with a strong interest in Software development, UI/UX design, and data science & analytics. I enjoy turning ideas into clean and functional interfaces.
+I am a Computer Science student with a strong interest in Software development, data engineering, UI/UX design, and data science & analytics. I enjoy turning ideas into clean and functional interfaces.
 
 ---
 
 ## 🎨 Prototypes & Projects
 - 🔗 [Beany Brews App – Interactive Prototype] - https://www.figma.com/proto/ErMqfkFFbFNVPYX2BjnOPY/Beany-Brews-Project?node-id=1-12&t=z2DYYWtYCTwyXixV-1
+- 🔗 [Platemate] - https://github.com/orgs/AutoMealPlan/repositories
 - 🔗 [Beany Brews App – Workflow] - https://www.figma.com/design/ErMqfkFFbFNVPYX2BjnOPY/Beany-Brews-Project?node-id=1-10&t=z2DYYWtYCTwyXixV-1
 - 🔗 [Goodreads App – Interactive Prototype] - https://www.figma.com/proto/DkPla2DHF6vs8SAHqbvlXJ/Goodreads-App-Redesign?node-id=11-9&t=z2DYYWtYCTwyXixV-1 
 - 🔗 [ArtStation App – Interactive Prototype] - https://www.figma.com/proto/fUW7itzZorCWvdOonjwHoU/ArtStation-App?node-id=1-196&t=z2DYYWtYCTwyXixV-1
