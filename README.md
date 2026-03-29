@@ -29,6 +29,10 @@ I am a Computer Science student with a strong interest in Software development, 
   
 - 🔗 [CLassica Website] -  https://github.com/Moonlitpixel/Classica-Website
 - Developed an imaginary e-commerce website as an early project in my computer science journey. Built using JavaScript, HTML, CSS, and PHP, this project helped me strengthen my web development skills. Despite encountering challenges, my team successfully completed the website.
+
+- 🔗 [Chatbot_Rulebased] - https://github.com/Moonlitpixel/Chatbot_Rulebased
+- A rule-based ecommerce chatbot is a digital shop assistant that follows predefined conversation flows to answer customer questions, guide product browsing, and support orders in a predictable, structured way.
+
   
 ---
 
