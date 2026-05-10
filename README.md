@@ -100,7 +100,7 @@ A weather intelligence platform that transforms raw forecast data into practical
 
 An AI-powered meal planner with a built-in weight tracker, developed as our undergraduate research project. Deepened my full-stack development skills and hands-on AI integration experience.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/AutoMealPlan/repositories)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/orgs/AutoMealPlan/repositories](https://github.com/AutoMealPlan/Platemate))
 
 ---
 
